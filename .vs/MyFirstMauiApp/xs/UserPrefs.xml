@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{CAA0E0E0-16BD-4AE3-965E-80138F448C8D}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstMauiApp PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstMauiApp/MainPage.xaml">
+    <Files>
+      <File FileName="MyFirstMauiApp/MainPage.xaml" Line="43" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/packs/Microsoft.MacCatalyst.Sdk/16.1.1481/tools/msbuild/iOS/Xamarin.Shared.targets" />
+      <File FileName="MyFirstMauiApp/MainPage.xaml.cs" />
+      <File FileName="MyFirstMauiApp/AppShell.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstMauiApp" expanded="True">
+            <Node name="MyFirstMauiApp" expanded="True">
+              <Node name="Resources" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
